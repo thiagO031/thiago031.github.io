@@ -22,13 +22,13 @@ function App() {
       {/* <MainPage/> */}
         <Routes>
           {/* rota inicial/ ao abrir o projeto */}
-          <Route path="/" element={<MainPage/>}></Route>
+          <Route path="//thiago031.github.io" element={<MainPage/>}></Route>
 
           {/* rota da navbar */}
-          <Route path="/MainPage" element={<MainPage />} />
-          <Route path="/Carta" element={<Carta />} />
-          <Route path="/Guia" element={<Guia />} />
-          <Route path="/Anjo" element={<Anjo />} />
+          <Route path="/MainPage/thiago031.github.io" element={<MainPage />} />
+          <Route path="/Carta/thiago031.github.io" element={<Carta />} />
+          <Route path="/Guia/thiago031.github.io" element={<Guia />} />
+          <Route path="/Anjo/thiago031.github.io" element={<Anjo />} />
         </Routes>
       </BrowserRouter>
     </div>

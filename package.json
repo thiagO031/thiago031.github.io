@@ -1,4 +1,5 @@
 {
+  "homepage": "https://thiagO031/thiago031.github.io/thiago031.github.io",
   "name": "axe",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
