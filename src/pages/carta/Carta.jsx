@@ -12,7 +12,7 @@ const nascimento = "10/09/2001";
 
 
 // jSX
-const Main = () =>{
+const Carta = () =>{
     // const [collapse, setCollapse] = useState(false);
 
     return(
@@ -171,4 +171,4 @@ const Main = () =>{
     )
 }
 
-export default Main;
+export default Carta;

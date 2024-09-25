@@ -1,5 +1,5 @@
 // impoortações
-import Header from "./components/Header";
+import Header from "./components/header/Header";
 import Carta from "./pages/carta/Carta";
 import Guia from "./pages/guia/Guia";
 import Anjo from "./pages/anjo/Anjo";
